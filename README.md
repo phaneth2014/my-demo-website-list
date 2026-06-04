@@ -1,10 +1,10 @@
 # my website list
 
-<ul>
-  <li><a href="https://khmer-calendar.netlify.app/" target="_blank">https://khmer-calendar.netlify.app</a></li>
-  <li><a href="https://camstock-management-system.netlify.app/" target="_blank">https://camstock-management-system.netlify.app/</a></li>
-  <li><a href="https://khr-managment-system.netlify.app/" target="_blank">https://khr-managment-system.netlify.app/</a></li>
-  <li><a href="https://khmer-academy.netlify.app/" target="_blank">https://khmer-academy.netlify.app</a></li>
-  <li><a href="https://khmer-soft.netlify.app/" target="_blank">https://khmer-soft.netlify.app/</a></li>
-  <li><a href="https://eshop24.netlify.app/" target="_blank">https://eshop24.netlify.app/</a></li>
-</ul>
+# my website list
+
+* <a href="https://khmer-calendar.netlify.app/" target="_blank">Khmer Calendar</a>
+* <a href="https://camstock-management-system.netlify.app/" target="_blank">Camstock Management System</a>
+* <a href="https://khr-managment-system.netlify.app/" target="_blank">KHR Management System</a>
+* <a href="https://khmer-academy.netlify.app/" target="_blank">Khmer Academy</a>
+* <a href="https://khmer-soft.netlify.app/" target="_blank">Khmer Soft</a>
+* <a href="https://eshop24.netlify.app/" target="_blank">eShop24</a>
